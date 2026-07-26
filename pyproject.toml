@@ -1,0 +1,13 @@
+[tool.ty.rules]
+unresolved-attribute = "ignore"
+invalid-parameter-default = "ignore"
+deprecated = "ignore"
+possibly-missing-attribute = "ignore"
+invalid-argument-type = "ignore"
+invalid-return-type = "ignore"
+possibly-missing-import = "ignore"
+unsupported-operator = "ignore"
+no-matching-overload = "ignore"
+invalid-assignment = "ignore"
+call-non-callable = "ignore"
+not-subscriptable = "ignore"

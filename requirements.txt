@@ -1,0 +1,5 @@
+kurigram
+tgcrypto-pyrofork
+motor
+python-dotenv
+dnspython
